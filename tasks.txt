@@ -1,0 +1,5 @@
+admin, Register Users with task_manager.py, Use task_manager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use task_manager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+andy, Manage the analysts, Review analysis of the latest ML data, 2024-03-22, 2024-04-01, No
+duma, Lead jazz quartet, Play trumpet in the band, 2024-03-22, 2024-04-01, No
+duma, tytytyytyt, ererwwowo, 2024-03-22, 2024-04-01, No
